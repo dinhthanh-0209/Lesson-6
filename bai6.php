@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Document</title>
-    <link rel="stylesheet" href="styte.css" />
+    <link rel="stylesheet" href="./style.css" />
   </head>
   <body>
     <!-- header -->
@@ -113,19 +113,19 @@
     <div class="rating">
       <ul>
         <li> 
-          <img src="star.png" alt="">
+          <img src="./star.png" alt="">
         </li>
         <li>
-          <img src="star.png" alt="">
+          <img src="./star.png" alt="">
         </li>
         <li>
-          <img src="star.png" alt="">
+          <img src="./star.png" alt="">
         </li>
         <li>
-          <img src="star.png" alt="">
+          <img src="./star.png" alt="">
         </li>
         <li>
-          <img src="star.png" alt="">
+          <img src="./star.png" alt="">
         </li>
       </ul>
       <p>4.9/5 rating</p>
@@ -134,16 +134,16 @@
     <div class="rating">
       <ul>
         <li> 
-          <img src="star.png" alt="">
+          <img src="./star.png" alt="">
         </li>
         <li>
-          <img src="star.png" alt="">
+          <img src="./star.png" alt="">
         </li>
         <li> 
-          <img src="star.png" alt="">
+          <img src="./star.png" alt="">
         </li>
         <li>
-          <img src="star.png" alt="">
+          <img src="./star.png" alt="">
         </li>
       </ul>
       <p>4.8/5 rating</p>
@@ -167,7 +167,7 @@
   <div class="ana">
     <ul>
       <li>
-        <img src="analyst.png" alt="">
+        <img src="./analyst.png" alt="">
       </li>
       <li>
         <p>Analytics</p>
@@ -179,7 +179,7 @@
 <div class="eng">
   <ul>
     <li>
-      <img src="analyst.png" alt="">
+      <img src="./analyst.png" alt="">
     </li>
     <li>
       <p>Engagement</p>
@@ -209,7 +209,7 @@
 <div class="main4-img">
   <ul>
     <li> 
-      <img src="Untitled-4.png" alt="">
+      <img src="./Untitled-4.png" alt="">
     </li>
     <li> 
       <h3>Collboration Teams</h3>
@@ -224,7 +224,7 @@
 <div class="main4-img">
   <ul>
     <li>
-      <img src="Untitled-4.png" alt="">
+      <img src="./Untitled-4.png" alt="">
     </li>
     <li>
       <h3>Clould Storage</h3>
@@ -238,7 +238,7 @@
 <div class="main4-img">
   <ul>
     <li>
-      <img src="Untitled-4.png" alt="">
+      <img src="./Untitled-4.png" alt="">
     </li>
     <li>
       <h3> Daily Analytics</h3>
@@ -257,7 +257,7 @@
     <div class="main5-text">
       <ul>
         <li>
-          <img src="analyst.png" alt="">
+          <img src="./analyst.png" alt="">
         </li>
         <li><p>Free Consulting With Exporot Saving Money</p></li>
       </ul>
@@ -266,7 +266,7 @@
     <div class="main5-text">
       <ul>
         <li>
-          <img src="analyst.png" alt="">
+          <img src="./analyst.png" alt="">
         </li>
         <li><p>Online Banking</p></li>
       </ul>
@@ -275,7 +275,7 @@
     <div class="main5-text">
       <ul>
         <li>
-          <img src="analyst.png" alt="">
+          <img src="./analyst.png" alt="">
         </li>
         <li><p>Invesment Report Every Month</p></li>
       </ul>
@@ -284,7 +284,7 @@
 <div class="main5-text">
   <ul>
     <li>
-      <img src="analyst.png" alt="">
+      <img src="./analyst.png" alt="">
     </li>
     <li><p>Saving Money For The Future</p></li>
   </ul>
@@ -293,7 +293,7 @@
 <div class="main5-text">
   <ul>
     <li>
-      <img src="analyst.png" alt="">
+      <img src="./analyst.png" alt="">
     </li>
     <li><p>Online Transection</p></li>
   </ul>
@@ -302,7 +302,7 @@
   </div>
   <div class="main5">
     <div class="main5-img">
-      <img src="mac.png" alt=""></div>
+      <img src="./mac.png" alt=""></div>
   </div>
 </div>
 <!---->
@@ -322,7 +322,7 @@
 <div class="form1">
   <ul>
     <li>
-      <img src="star.png" alt="">
+      <img src="./star.png" alt="">
     </li>
     <li><p>2 User</p></li>
   </ul>
@@ -330,7 +330,7 @@
 <div class="form1">
   <ul>
     <li>
-      <img src="star.png" alt="">
+      <img src="./star.png" alt="">
     </li>
     <li><p>2 Files</p></li>
   </ul>
@@ -346,7 +346,7 @@
 <div class="form1">
   <ul>
     <li>
-      <img src="star.png" alt="">
+      <img src="./star.png" alt="">
     </li>
     <li><p>Chat Support</p></li>
   </ul>
@@ -354,7 +354,7 @@
 <div class="form1">
   <ul>
     <li>
-      <img src="star.png" alt="">
+      <img src="./star.png" alt="">
     </li>
     <li><p>New income apps</p></li>
   </ul>
@@ -375,7 +375,7 @@
 <div class="form1">
 <ul>
   <li>
-    <img src="star.png" alt="">
+    <img src="./star.png" alt="">
   </li>
   <li><p>4 User</p></li>
 </ul>
@@ -383,7 +383,7 @@
 <div class="form1">
 <ul>
   <li>
-    <img src="star.png" alt="">
+    <img src="./star.png" alt="">
   </li>
   <li><p>All apps</p></li>
 </ul>
@@ -391,7 +391,7 @@
 <div class="form1">
 <ul>
   <li>
-    <img src="star.png" alt="">
+    <img src="./star.png" alt="">
   </li>
   <li><p>Inlimited editable exports</p></li>
 </ul>
@@ -399,7 +399,7 @@
 <div class="form1">
 <ul>
   <li>
-    <img src="star.png" alt="">
+    <img src="./star.png" alt="">
   </li>
   <li><p>Folders and collaboration</p></li>
 </ul>
@@ -407,7 +407,7 @@
 <div class="form1">
 <ul>
   <li>
-    <img src="star.png" alt="">
+    <img src="./star.png" alt="">
   </li>
   <li><p>All incoming apps</p></li>
 </ul>
@@ -426,7 +426,7 @@
 <div class="form1">
 <ul>
   <li>
-    <img src="star.png" alt="">
+    <img src="./star.png" alt="">
   </li>
   <li><p>All the future of pro plan</p></li>
 </ul>
@@ -434,7 +434,7 @@
 <div class="form1">
 <ul>
   <li>
-    <img src="star.png" alt="">
+    <img src="./star.png" alt="">
   </li>
   <li><p>Account success Manager</p></li>
 </ul>
@@ -442,7 +442,7 @@
 <div class="form1">
 <ul>
   <li>
-    <img src="star.png" alt="">
+    <img src="./star.png" alt="">
   </li>
   <li><p>Single Sign-On (SSO)</p></li>
 </ul>
@@ -450,7 +450,7 @@
 <div class="form1">
 <ul>
   <li>
-    <img src="star.png" alt="">
+    <img src="./star.png" alt="">
   </li>
   <li><p>Co-conception program</p></li>
 </ul>
@@ -458,7 +458,7 @@
 <div class="form1">
 <ul>
   <li>
-    <img src="star.png" alt="">
+    <img src="./star.png" alt="">
   </li>
   <li><p>Collaboration-Soon</p></li>
 </ul>
@@ -481,16 +481,16 @@ helpful in my life, even I can pay a short time</p>
 <p>_ Aria Zinnanrio</p>
 <div class="people-img">
   <ul><li>
-    <img src="person.png" alt="">
+    <img src="./person.png" alt="">
   </li>
   <li>
-    <img src="person.png" alt="">
+    <img src="./person.png" alt="">
   </li>
   <li>
-    <img src="person.png" alt="">
+    <img src="./person.png" alt="">
   </li>
   <li>
-    <img src="Untitled-4.png" alt="">
+    <img src="./Untitled-4.png" alt="">
   </li>
 </ul>
 </div>
